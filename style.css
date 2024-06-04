@@ -1,21 +1,12 @@
-
-
-header{
-text-align: center;
-
+header {
+    text-align: center;
 }
 
-
-.list-group-item a{
-
-text-decoration: none;
-
+.list-group-item a {
+    text-decoration: none;
 }
 
-.card img{
-width: 420px;
-height: 420px;
-
-
-
+.card img {
+    width: 420px;
+    height: 420px;
 }
